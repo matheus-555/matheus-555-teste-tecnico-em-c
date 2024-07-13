@@ -1,0 +1,11 @@
+COMPILADOR UTILIZADO : 
+windows    -> gcc (tdm64-1) 4.9.2 Copyright (C) 2014 Free Software Foundation, Inc.
+linux/unix -> gcc (Debian 12.2.0-14) 12.2.0 Copyright (C) 2022 Free Software Foundation, Inc.
+
+PARA RESOLVER O EXERCÍCIO FOI IMPLEMENTADO:
+- UMA ESTRUTURA PARA ENCAPSULAR A ENTIDADE FUNCIONARIO
+- DUAS ESTRUTURAS PARA ARMAZENAR DIVERSAS INSTANCIAS DA ESTRUTURA FUNCIONARIO, SENDO UMA ESTRUTURA UTILIZANDO UM ARRAY E A OUTRA UTILIZANDO UMA LISTA SIMPLESMENTE ENCADEADA
+
+O ARQUIVO RESPONSÁVEL POR CONSUMIR AS API'S IMPLEMENTADAS ENCONTRA-SE NO ARQUIVO 'main.c'
+
+- O script para compilacao e execucao do programa no windows e no linux/unix encontra-se respectivamente nos arquivos '.cmd' e '.sh'.
